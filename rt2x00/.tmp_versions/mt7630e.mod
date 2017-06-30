@@ -1,0 +1,3 @@
+/home/bismart/Downloads/MT7630E/rt2x00/mt7630e.ko
+/home/bismart/Downloads/MT7630E/rt2x00/rt2x00dev.o /home/bismart/Downloads/MT7630E/rt2x00/rt2x00mac.o /home/bismart/Downloads/MT7630E/rt2x00/rt2x00config.o /home/bismart/Downloads/MT7630E/rt2x00/rt2x00queue.o /home/bismart/Downloads/MT7630E/rt2x00/rt2x00link.o /home/bismart/Downloads/MT7630E/rt2x00/mt_linux.o /home/bismart/Downloads/MT7630E/rt2x00/rt2x00crypto.o /home/bismart/Downloads/MT7630E/rt2x00/rt2x00firmware.o /home/bismart/Downloads/MT7630E/rt2x00/rt2x00leds.o /home/bismart/Downloads/MT7630E/rt2x00/rt2x00mmio.o /home/bismart/Downloads/MT7630E/rt2x00/rt2800pci.o /home/bismart/Downloads/MT7630E/rt2x00/rt2800lib.o /home/bismart/Downloads/MT7630E/rt2x00/rt2x00pci.o
+
